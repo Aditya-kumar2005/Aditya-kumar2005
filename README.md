@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya Kumar
 
-<!--
-**Aditya-kumar2005/Aditya-kumar2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Entry-Level Java Developer  
+🌱 Learning Backend Development  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- **Languages:** Java
+- **Core Concepts:** OOPs, Data Structures (Basics)
+- **Backend:** JDBC, Spring Boot (Basics)
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Apache Netbeans ,Eclipse IDE, VS Code
+
+---
+
+## 📌 Projects
+### 🔹 Fees Management System
+- Java + MySQL based CRUD application
+- Manage courses ,fees and transactions
+- Uses JDBC for database connectivity
+- Implements OOP principles
+
+### 🔹 Simple Banking System
+- Console-based Java application
+- Manage books, members, and transactions
+
+### 🔹 JavaFX Desktop Application
+- GUI-based Java application
+- Clean UI with event handling
+
+👉 Check my repositories below ⬇️
+
+---
+
+## 📫 Contact Me
+- 📧 Email: nanuadityakumar@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/aditya-kumar-b4874235b
+- 🧑‍💻 GitHub: https://github.com/Aditya-kumar2005
+
+---
+
+⭐ *I am actively looking for an entry-level Java Developer role*
