@@ -143,7 +143,7 @@ Open to:
 
 Email: nanuadityakumar@gmail.com  
 LinkedIn: www.linkedin.com/in/aditya-kumar-b4874235b  
-Portfolio: https://aditya-kumar2005.github.io/My-portfolio/  
+Portfolio: https://aditya-portfolio-khaki.vercel.app/ 
 GitHub: https://github.com/Aditya-kumar2005  
 
 ---
