@@ -82,14 +82,3 @@ I am a self-motivated BCA student passionate about becoming a **Java Full Stack 
 * 🔗 [View Project](https://github.com/Aditya-kumar2005)
 
 ---
-
-### 📊 Tech Proficiency Matrix
-Java Core                ████████████████████ 100% . 
-Spring Boot              ██████████████████░░ 95% .
-REST APIs                ██████████████████░░ 95% .
-MySQL / SQL              ████████████████░░░░ 85% .
-Spring Security          ██████████████░░░░░░ 80% .
-React / Frontend         ███████████████░░░░░ 75% .
-Hibernate / JPA          ███████████████░░░░░ 75% .
-DSA                      ███████████████░░░░░ 75% .
-Docker & Microservices   ██████████░░░░░░░░░░ 55% .
