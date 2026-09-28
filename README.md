@@ -69,14 +69,14 @@ I am a self-motivated BCA student passionate about becoming a **Java Full Stack 
 
 ### 🛠️ Tech Stack
 
-#### Core Ecosystem & Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,hibernate,maven,gradle,docker,git,github,postman,vscode,idea,linux"/>
-</p>
-
 #### Frontend, Web & AI Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,nodejs"/>
+</p>
+
+#### Core Ecosystem & Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,hibernate,maven,gradle,docker,git,github,postman,vscode,idea,linux"/>
 </p>
 
 > **Key Concepts & Frameworks:** Java • Spring Boot • Spring Security • Spring AI • REST APIs • OOP • System Design • Docker • RAG • Agile/SDLC
